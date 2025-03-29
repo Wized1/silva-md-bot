@@ -1,7 +1,7 @@
 {
-    "name": "SILVA MD",
-    "version": "2.1.0",
-    "description": "Advanced WhatsApp",
+    "name": "Social Security",
+    "version": "1.x",
+    "description": "Advanced WhatsApp chat bot",
     "main": "silva.js",
     "type": "module",
     "directories": {
@@ -30,7 +30,7 @@
     ],
     "homepage": "https://github.com/SilvaTechB/silva-md-bot",
     "author": {
-        "name": "GURU"
+        "name": "Mudasir Bhayo"
     },
     "repository": {
         "type": "git",
